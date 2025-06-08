@@ -1,0 +1,1 @@
+Este es un archivo de prueba generado por Jupyter y subido a MinIO.
