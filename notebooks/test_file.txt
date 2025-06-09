@@ -1,1 +1,7 @@
-Este es un archivo de prueba generado por Jupyter y subido a MinIO.
+!pip show boto3
+
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: jupyter-notebooks-image
